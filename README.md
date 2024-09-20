@@ -13,7 +13,7 @@ As a passionate Software Developer and QA Test Engineer, I thrive in the world o
 
 - 😊 Pronouns: Her/she
 - 💡 Fun fact:
-  - I interned at [FUNAAB ICTREC](https://funaab.edu.ng/section/information-and-communication-technology-resource-centre-ictrec/) as an IT Support Engineer.
+  - I interned at [FUNAAB ICTREC](https://funaab.edu.ng/section/information-and-communication-technology-resource-centre-ictrec/) as an IT Support Specialist.
   - I was part of BISM Software Limted Software Developers And Testers.
   - I graduated with Distinction from [Conestoga College](https://www.conestogac.on.ca/), Software Quality Assurance and Test Engineering, Class of 2024.
 - 🌱 I am proficient in Manual and Automated Testing using Postman, Cypress, Selenium, and Playwright.
